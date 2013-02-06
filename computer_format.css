@@ -9,7 +9,7 @@ title
 
 #navbar li
 {
-	text-align:center;
+	text-align: center;
 	display:inline;
 	border: 1px black;
 }
@@ -43,3 +43,8 @@ p
 	font-size:.9em;
 }
 
+#portrait
+{
+	height: 100%;
+	width: 100%;
+}
