@@ -45,6 +45,12 @@ p
 
 #portrait
 {
+	align:center;
 	height: 60%;
 	width: 60%;
+}
+
+#name
+{
+	text-align:center;
 }
